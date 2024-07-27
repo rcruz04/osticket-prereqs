@@ -1,3 +1,8 @@
 Link to all the [install files](https://drive.google.com/drive/folders/1PZniuytu3z9D4xLDlzRqx_tZpf9Lw2zZ?usp=share_link)
+[PHPManager](https://drive.google.com/file/d/1nX1po3OYIT0eAKMuQWlHj4EzpsMIsdV7/view?usp=share_link)
+[Rewrite File](https://drive.google.com/file/d/1Ce1s_qfCAmMi8T846ykRsd0VMye_ocQc/view?usp=share_link)
+[PHP 7.3.8](https://drive.google.com/file/d/1Hdxax5lXfKAm2MwzCxI_JYyeOvPS6__V/view?usp=share_link)
+[VC_redist.x86](https://drive.google.com/file/d/1wwKD1XOiQ3CyB6RhuC7SOqTluTZbv7sl/view?usp=share_link)
+[MySQL 5.5.62](https://drive.google.com/file/d/1_WMQcnHuBCOs5GvaOTQPjrv70vxiuaNo/view?usp=share_link)
 [osTicket](https://drive.google.com/file/d/196gQKt8Y3ndznDgaeXUKqB41Hqk02QcM/view?usp=share_link)
 [HeidiSQL](https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe)
