@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Microsoft Azure Subscription / Hardware to install on.
-- [Installation Files](https://drive.google.com/drive/folders/1PZniuytu3z9D4xLDlzRqx_tZpf9Lw2zZ?usp=share_link) (Insalled on VM or physical hardware)
+- [Installation Files](https://github.com/rcruz04/osticket-prereqs/blob/main/install.files.md) (Insalled on VM or physical hardware)
   - [PHPManager](https://drive.google.com/file/d/1nX1po3OYIT0eAKMuQWlHj4EzpsMIsdV7/view?usp=share_link)
   - [Rewrite File](https://drive.google.com/file/d/1M5B3d9qcQLMTBCJPDsvy7qNCQwoy9uOk/view?usp=share_link)
   - [PHP 7.3.8](https://drive.google.com/file/d/1Hdxax5lXfKAm2MwzCxI_JYyeOvPS6__V/view?usp=share_link)
@@ -228,34 +228,35 @@ Refreshing the website should update the extentions that are enabled.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1470" alt="Screenshot 2024-08-01 at 1 12 33 PM" src="https://github.com/user-attachments/assets/b9eec8fe-0cad-4750-b9b8-abbedd86e13b">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to "C:\inetpub\wwwroot\osTicket\include" and rename the "ost-sampleconfig.php" file to "ost-config.php"
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1470" alt="Screenshot 2024-08-01 at 1 14 55 PM" src="https://github.com/user-attachments/assets/3151a75e-7aae-4126-a04c-42eb185ee8a3">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Right-click "ost-config.php" file and then go to the security tab, then click advanced, then click "Disable inharitence".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1470" alt="Screenshot 2024-08-01 at 1 17 18 PM" src="https://github.com/user-attachments/assets/9c15ce5b-ad03-46bc-8116-7fe062d58d3c">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then click "Add", then "Select a principle", then type "everyone" and click "check names".
+</p>
+<br />
+
+<p>
+<img width="1470" alt="Screenshot 2024-08-01 at 1 17 24 PM" src="https://github.com/user-attachments/assets/28082be9-1d70-4cdb-b617-e99f30344a08">
+</p>
+<p>
+Then click "Full Control". It should look like the picture below.
+<img width="1470" alt="Screenshot 2024-08-01 at 1 17 31 PM" src="https://github.com/user-attachments/assets/64942308-d98f-4524-85dc-08036c89d744">
 </p>
 <br />
 
