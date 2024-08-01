@@ -223,7 +223,7 @@ Back in the IIS, while in osTicket click the PHP manager, then go down to PHP ex
 <img width="1470" alt="Screenshot 2024-08-01 at 1 04 55 PM" src="https://github.com/user-attachments/assets/fb01c933-e82e-4548-b26e-68f4e4c18906">
 </p>
 <p>
-Refreshing the website should update the extentions that are enabled.
+Refreshing the website should update the extentions that we enabled.
 </p>
 <br />
 
@@ -261,34 +261,71 @@ Then click "Full Control". It should look like the picture below.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1470" alt="Screenshot 2024-08-01 at 1 27 13 PM" src="https://github.com/user-attachments/assets/76fcaa5d-fdb9-4507-8e88-bee4c437d5d6">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+Download and install [HeidiSQL](https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe) and launch it when finished.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1470" alt="Screenshot 2024-08-01 at 1 29 03 PM" src="https://github.com/user-attachments/assets/e24dd74e-39f9-4440-bc62-9ae4546bee4a">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click new and type the password from earlier.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1470" alt="Screenshot 2024-08-01 at 1 32 29 PM" src="https://github.com/user-attachments/assets/dbdc11a1-7d06-42f7-8e02-eb19c776e3ed">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Right-click and click "Create New" and then "Database" and name it "osTicket".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1470" alt="Screenshot 2024-08-01 at 1 24 03 PM" src="https://github.com/user-attachments/assets/49261b6e-7ab6-4a08-a13e-7038803a639e">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Set up some basic credentals. You can put anything you want but this is what i put. MAKE SURE TO REMEMBER THE PASSWORD HERE.
 </p>
 <br />
+
+<p>
+<img width="1470" alt="Screenshot 2024-08-01 at 1 35 57 PM" src="https://github.com/user-attachments/assets/38d42df8-fc80-43ff-8c2f-50abc8dce646">
+</p>
+<p>
+Finish up the text boxes with the database name from Heidi, put root as the username and the passord as the one set up earlier when installing the SQL server.
+</p>
+<br />
+
+<p>
+<img width="1470" alt="Screenshot 2024-08-01 at 1 44 24 PM" src="https://github.com/user-attachments/assets/203a61b0-6915-443a-9fb3-52f06994f888">
+</p>
+<p>
+If everything went well you should get a screen that looks like this.
+</p>
+<br />
+
+<p>
+<img width="1470" alt="Screenshot 2024-08-01 at 1 48 03 PM" src="https://github.com/user-attachments/assets/b733fc7f-82fc-4e8c-8026-7ba94811eb80">
+</p>
+<p>
+Go to "C:\inetpub\wwwroot\osTicket\" and delete the "setup folder there."
+</p>
+<br />
+
+<p>
+<img width="1470" alt="Screenshot 2024-08-01 at 1 52 49 PM" src="https://github.com/user-attachments/assets/554e14ca-9611-4ce2-b1f4-ca8e4db6c627">
+</p>
+<p>
+Go to "C:\inetpub\wwwroot\osTicket\include" and change the permisions of the "ost-config.php" file by unchecking the write tab.
+</p>
+<br />
+
+
+
+
 
