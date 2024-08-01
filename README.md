@@ -95,50 +95,61 @@ In the VM go to "https://github.com/rcruz04/osticket-prereqs/" to make installin
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1470" alt="Screenshot 2024-08-01 at 12 00 11 PM" src="https://github.com/user-attachments/assets/50abe40c-e5d1-4dc2-bd14-2ec2270bf92b">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Install the [PHP manager](https://drive.google.com/file/d/1Hdxax5lXfKAm2MwzCxI_JYyeOvPS6__V/view?usp=share_link). Click the link and go though the installation steps.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1470" alt="Screenshot 2024-08-01 at 12 07 08 PM" src="https://github.com/user-attachments/assets/76a9f031-9c60-4142-840c-105aa49aae84">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Intsall the [Rewrite File](https://drive.google.com/file/d/1M5B3d9qcQLMTBCJPDsvy7qNCQwoy9uOk/view?usp=share_link) and run it.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1470" alt="Screenshot 2024-08-01 at 12 09 36 PM" src="https://github.com/user-attachments/assets/312e4d14-7700-484f-835d-9bb1ea82bb63">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to the root of the opperating system and create the folder "PHP" so it should look like "C:\PHP"
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1470" alt="Screenshot 2024-08-01 at 12 16 15 PM" src="https://github.com/user-attachments/assets/9ddff2ac-6a51-4ad0-b01c-713b2368127f">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Download [PHP](https://drive.google.com/file/d/1Hdxax5lXfKAm2MwzCxI_JYyeOvPS6__V/view?usp=share_link) from the link and after its downloaded, extract the files into the PHP folder at the root of the OS.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1470" alt="Screenshot 2024-08-01 at 12 20 52 PM" src="https://github.com/user-attachments/assets/35f1e042-4321-400a-a7b7-04a2f22ae572">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Install [VC](https://drive.google.com/file/d/1wwKD1XOiQ3CyB6RhuC7SOqTluTZbv7sl/view?usp=share_link) from the link.
+</p>
+<br />
+
+<p> 
+<h2>
+  
+  Download [MySQL](https://drive.google.com/file/d/1_WMQcnHuBCOs5GvaOTQPjrv70vxiuaNo/view?usp=share_link) and go though the installation steps. </h2>
+<img width="1470" alt="Screenshot 2024-08-01 at 12 25 08 PM" src="https://github.com/user-attachments/assets/69edf1c1-f276-4f46-865c-9c1edf4896f1">
+<h2>Typical Installation</h2>
+<img width="1470" alt="Screenshot 2024-08-01 at 12 25 30 PM" src="https://github.com/user-attachments/assets/b184e872-739f-497c-be60-37dd7f49c715">
+<h2>Standard Configuration</h2>
+<img width="1470" alt="Screenshot 2024-08-01 at 12 27 12 PM" src="https://github.com/user-attachments/assets/136e034f-795e-4b37-86b9-0976a9b4b2e9">
+<h2>This first option.</h2>
+<img width="1470" alt="Screenshot 2024-08-01 at 12 27 51 PM" src="https://github.com/user-attachments/assets/295e3c8e-387c-45ad-b64b-90bd882407ed">
+<h2>I used "Password1" here because its a lab but in real life youd want to use a secure password here.</h2>
 </p>
 <br />
 
