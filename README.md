@@ -154,6 +154,96 @@ Install [VC](https://drive.google.com/file/d/1wwKD1XOiQ3CyB6RhuC7SOqTluTZbv7sl/v
 <br />
 
 <p>
+<img width="1470" alt="Screenshot 2024-08-01 at 12 41 21 PM" src="https://github.com/user-attachments/assets/3383122b-f968-4d35-8a18-523a567e565d">
+</p>
+<p>
+Open IIS as an admin.
+</p>
+<br />
+
+<p>
+<img width="1470" alt="Screenshot 2024-08-01 at 12 43 11 PM" src="https://github.com/user-attachments/assets/5a3804cf-ccbb-421b-9594-4098e3d7fcef">
+</p>
+<p>
+Once opened, click where it says "PHP Manager" and then click "Register new PHP version" then go to the root of the OS then PHP then click on "php-cgi.exe"
+</p>
+<br />
+
+<p>
+<img width="1470" alt="Screenshot 2024-08-01 at 12 46 43 PM" src="https://github.com/user-attachments/assets/da7f4fa5-7be2-49cc-8483-17d442b8e71c">
+</p>
+<p>
+Back in the main menu, click restart to save the changes.
+</p>
+<br />
+
+<p>
+<img width="1470" alt="Screenshot 2024-08-01 at 12 50 19 PM" src="https://github.com/user-attachments/assets/c811e3e8-4a43-4ca6-9bc2-65316a603c79">
+</p>
+<p>
+  
+Download [osTicket](https://drive.google.com/file/d/196gQKt8Y3ndznDgaeXUKqB41Hqk02QcM/view?usp=share_link) and transfer the "upload" folder to the "C:\inetpub\wwwroot" folder.
+</p>
+<br />
+
+<p>
+<img width="1470" alt="Screenshot 2024-08-01 at 12 52 55 PM" src="https://github.com/user-attachments/assets/8854470e-f99d-4e0f-a0e9-76bc0dc60270">
+</p>
+<p>
+Rename the upload folder to "osTicket".
+</p>
+<br />
+
+<p>
+<img width="1470" alt="Screenshot 2024-08-01 at 12 46 43 PM" src="https://github.com/user-attachments/assets/7efef554-daa7-4f7d-ba67-5231902674d4">
+</p>
+<p>
+Restart the server again.
+</p>
+<br />
+
+<p>
+<img width="1470" alt="Screenshot 2024-08-01 at 12 55 17 PM" src="https://github.com/user-attachments/assets/c7a564c2-2ecf-4d2e-b877-31849933354b">
+</p>
+<p>
+In the IIS go to sites, then defult website then osTicket. In that menu, click "Browse *.80" and  you should see a screen like this.
+<img width="1470" alt="Screenshot 2024-08-01 at 12 58 42 PM" src="https://github.com/user-attachments/assets/046f5a43-9f03-4c15-abfc-4bffac2c2a79">
+</p>
+<br />
+
+<p>
+<img width="1470" alt="Screenshot 2024-08-01 at 1 00 23 PM" src="https://github.com/user-attachments/assets/254851ea-5e5c-4c7b-9e5b-26ee29d0993d">
+</p>
+<p>
+Back in the IIS, while in osTicket click the PHP manager, then go down to PHP extentions, then enable/disable extentions. In this menu find "php_imap.dll", "php_intl.dll", "php_opcache.dll" and enable them. Ive shown enabling "php_imap.dll" above.
+</p>
+<br />
+
+<p>
+<img width="1470" alt="Screenshot 2024-08-01 at 1 04 55 PM" src="https://github.com/user-attachments/assets/fb01c933-e82e-4548-b26e-68f4e4c18906">
+</p>
+<p>
+Refreshing the website should update the extentions that are enabled.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -184,3 +274,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
